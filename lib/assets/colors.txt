@@ -1,0 +1,10 @@
+background: rgba(251, 243, 152, 1); __ Yellow
+background: rgba(201, 253, 199, 1); __ Green
+background: rgba(221, 223, 254, 1); __ Blue
+background: rgba(33, 33, 33, 1); __ Black
+background: rgba(255, 255, 255, 1); __ White
+background: rgba(243, 245, 247, 1);__ Offblue
+
+
+
+
